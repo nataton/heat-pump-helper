@@ -391,7 +391,10 @@ function App() {
             </strong>
           </a>
           <div className="nav-status">
-            <span>Free Calculator</span>
+            <span>
+              <strong>Free Calculator</strong>
+              <small>USA Based</small>
+            </span>
           </div>
           <button className="save-button" type="button" onClick={saveResults}>
             <Icon name="bookmark" />
