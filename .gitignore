@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.video_deps/
+
+*.log
+.env
+.env.*
+
+heat_pump_helper_trailer_60s.mp4
+heat_pump_helper_trailer_preview.png
+make_heat_pump_trailer.py
+website-*.png
+website_*.png
